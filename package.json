@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/stickerum/node-potrace#readme",
   "dependencies": {
-    "jimp": "^0.2.24"
+    "jimp": "^0.16.1"
   },
   "devDependencies": {
     "lodash": "^4.15.0",
