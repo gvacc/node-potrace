@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/stickerum/node-potrace#readme",
   "dependencies": {
-    "jimp": "^0.2.24"
+    "jimp": "^0.16.1"
   },
   "devDependencies": {
     "lodash": "^4.15.0",
-    "mocha": "^3.0.2",
+    "mocha": "^10.0.0",
     "should": "^11.1.0",
     "should-sinon": "0.0.5",
     "sinon": "^1.17.5"
